@@ -1,1 +1,3 @@
-# blog
+# Blog
+
+A blog :3
